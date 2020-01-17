@@ -1,0 +1,3 @@
+<h1>Video School</h1>
+
+WELCOME TO THE VIDEO PARADISE :-)
